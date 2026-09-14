@@ -1,0 +1,17 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]: "WASD — движение · Space — прыжок · ЛКМ — сломать · ПКМ — поставить · 1–6 — блокПозиция: 16.5, 9.6, 24.5"
+  - generic [ref=e5]: "Прицел: —"
+  - generic [ref=e6]:
+    - generic [ref=e7] [cursor=pointer]: 1 Трава
+    - generic [ref=e9] [cursor=pointer]: 2 Земля
+    - generic [ref=e11] [cursor=pointer]: 3 Камень
+    - generic [ref=e13] [cursor=pointer]: 4 Дерево
+    - generic [ref=e15] [cursor=pointer]: 5 Листва
+    - generic [ref=e17] [cursor=pointer]: 6 Песок
+  - generic [ref=e19]: SCENE READY
+  - generic [ref=e21]:
+    - heading "⛏ МИНИ-МАЙНКРАФТ" [level=1] [ref=e22]
+    - paragraph [ref=e23]: Мир из блоков 32×32. Гуляй, строй и ломай!
+    - paragraph [ref=e24]: WASD — движение · Space — прыжок · мышь — осмотр
+    - paragraph [ref=e25]: ЛКМ — разрушить блок · ПКМ — установить блок · 1–6 — выбор блока
+    - button "ИГРАТЬ" [ref=e26] [cursor=pointer]
